@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1407,5 +1407,11 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
+
+
+.img_logo .img-responsive {
+    margin: 0 auto;
+}
+
 
 /*# sourceMappingURL=style.css.map */
